@@ -2,6 +2,8 @@ from datetime import datetime
 from flask import Flask, render_template
 from HelloFlask import app
 
+#app._static_folder = 'static'
+
 @app.route('/')
 @app.route('/home')
 def home():
