@@ -6,6 +6,7 @@
 - Install Python 3.9.6
 
 ## 2. Development
+You can follow the [LINK](https://hongphucvi.blogspot.com/2021/08/python-flask-create-web-application.html) on step by step.
 ### [Step 1](https://docs.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2019) - Create a project and solution
 - Create one basic Flask web application from Blank.
 - Code in [branch master](https://github.com/vihongphuc/LearningFlask)
@@ -23,4 +24,5 @@
 
 
 ## 3. Deployment
-- Refer this [LINK](https://hongphucvi.blogspot.com/2021/08/python-flask-create-web-application.html) in detail.
+- [Manual Deploymet in IIS](https://hongphucvi.blogspot.com/2021/08/python-flask-deploy-in-iis.html).
+- [Auto Deploymet in IIS](https://hongphucvi.blogspot.com/2021/08/azuredevopscicd-for-flask-web-project.html).
